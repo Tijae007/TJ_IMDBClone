@@ -9,4 +9,4 @@ It is a Django-based web application that lists movies uploaded and categorizes 
 # HOW TO RUN
 1. Download necessary dependencies in requirements.txt
 2. Run server using 'python manage.py runserver' to activate.
-3. Register as a user to add hotels to website and enjoy the website. 
+3. Access the website to watch movie trailers, and click links to download any movie of your choice. 
